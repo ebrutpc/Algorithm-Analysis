@@ -20,7 +20,7 @@ def Maxsubsum2(n):
                 maxSum = thisSum
     return maxSum
 
-def create_random_array(n):#n boyutlu dizi oluştur 
+def create_random_array(n):#n elemanlı dizi oluştur 
     import random
     arr=[]
     for i in range(n):
